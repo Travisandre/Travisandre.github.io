@@ -13,10 +13,20 @@ body {
     width:200px;
     padding:10px;
     margin:10px;
+    border:4px dashed #CBC3E3;
     background: whitesmoke;
 }
 
 h1 {
     color: #F8F9F9;
     text-align:center ;
+}
+
+a {
+    text-decoration: none;
+    color: #FA8072;
+}
+
+a:hover {
+    color: #C41E3A;
 }
