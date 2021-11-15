@@ -5,6 +5,11 @@ body {
 }
 
 .assignment {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.assignment {
     display:flex;
     padding:10px;
 }
